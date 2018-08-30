@@ -1,9 +1,6 @@
 # Cyber-Security-Dataset-collections
 Awesome Cyber-Security Data-sets Collection :stuck_out_tongue:
 
-# Awesome-Cybersecurity-Datasets 
-A curated list of amazingly awesome Cybersecurity datasets. 
-
 Please contribute to this list with new datasets by sending me a pull request or by contacting me at [@hackinfinity](https://facebook.com/anantha.innanje).
 
 Happy learning!
